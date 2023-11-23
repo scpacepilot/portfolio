@@ -236,7 +236,7 @@ html, body {
 
 .hero .col-md-6:last-child {
     position: absolute;
-    right: 40%;
+    right: -40%;
     bottom: 0;
 }
 
