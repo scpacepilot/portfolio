@@ -219,7 +219,7 @@ html, body {
 
 .hero .container {
     position: relative;
-    height: 100%;
+    height: 50%;
 }
 
 .hero .col-md-6:first-child {
