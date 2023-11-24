@@ -242,7 +242,7 @@ html, body {
 
 .lessismore {
     position: absolute;
-    top: -50%;
+    top: 50%;
     text-align: center;
 }
 
