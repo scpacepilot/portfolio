@@ -240,6 +240,11 @@ html, body {
     bottom: 0;
 }
 
+.lessismore {
+    position: absolute;
+    top: 0%;
+}
+
 .hero h1 {
     font-size: 46px;
     font-weight: 700;
