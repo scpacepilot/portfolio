@@ -242,8 +242,8 @@ html, body {
 
 .lessismore {
     position: absolute;
-    top: 60%;
-    right: 38%;
+    top: 100px;
+    right: 100px;
     text-align: center;
 }
 
